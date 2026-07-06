@@ -76,3 +76,21 @@
 * [Как создавать private-переменные в JavaScript?](scope-hoisting-and-closures/kak-sozdavat-private-peremennye-v-javascript.md)
 * [Что такое execution context?](scope-hoisting-and-closures/chto-takoe-execution-context.md)
 * [Что такое lexical environment?](scope-hoisting-and-closures/chto-takoe-lexical-environment.md)
+
+## Arrays
+
+* [Какие основные методы массивов в JavaScript?](arrays/kakie-osnovnye-metody-massivov-v-javascript.md)
+* [В чем разница между Array.prototype.forEach() и Array.prototype.map()?](arrays/v-chem-raznica-mezhdu-array.prototype.foreach-i-array.prototype.map.md)
+* [В чем разница между методами map(), filter() и reduce()?](arrays/v-chem-raznica-mezhdu-metodami-map-filter-i-reduce.md)
+* [Как итерировать свойства объектов и элементы массивов?](arrays/kak-iterirovat-svoistva-obektov-i-elementy-massivov.md)
+* [Как найти уникальные элементы в массиве, который содержит дубликаты?](arrays/kak-naiti-unikalnye-elementy-v-massive-kotoryi-soderzhit-dublikaty.md)
+* [Как преобразовать вложенный массив в плоский (flatten)?](arrays/kak-preobrazovat-vlozhennyi-massiv-v-ploskii-flatten.md)
+* [Назови 3 мутирующих (mutating) и 3 немутирующих (non-mutating) метода массивов.](arrays/nazovi-3-mutiruyushikh-mutating-i-3-nemutiruyushikh-non-mutating-metoda-massivov..md)
+* [Объясни разницу между методами splice и slice.](arrays/obyasni-raznicu-mezhdu-metodami-splice-i-slice..md)
+* [Что возвращает Array.prototype.at(-1) и почему это полезно?](arrays/chto-vozvrashaet-array.prototype.at-1-i-pochemu-eto-polezno.md)
+* [Каково поведение sort() по умолчанию без компаратора и почему оно может быть некорректным для чисел?](arrays/kakovo-povedenie-sort-po-umolchaniyu-bez-komparatora-i-pochemu-ono-mozhet-byt-nekorrektnym-dlya-chis.md)
+* [Объясни особенности поверхностного копирования (shallow copy) для массивов объектов.](arrays/obyasni-osobennosti-poverkhnostnogo-kopirovaniya-shallow-copy-dlya-massivov-obektov..md)
+* [Что такое массив? Как можно перебрать (итерировать) элементы массива?](arrays/chto-takoe-massiv-kak-mozhno-perebrat-iterirovat-elementy-massiva.md)
+* [Какие методы для поиска в массиве вы знаете?](arrays/kakie-metody-dlya-poiska-v-massive-vy-znaete.md)
+* [Как работают методы массивов some() и every()?](arrays/kak-rabotayut-metody-massivov-some-i-every.md)
+* [Как отсортировать массив по пользовательскому критерию?](arrays/kak-otsortirovat-massiv-po-polzovatelskomu-kriteriyu.md)
