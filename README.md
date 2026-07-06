@@ -43,7 +43,7 @@
 
 ## Memory & Values
 
-[Передача параметров в JavaScript происходит по значению (pass-by-value) или по ссылке (pass-by-reference)?](app://obsidian.md/45%20-%20Pass%20by%20value%20vs%20reference)
+Передача параметров в JavaScript происходит по значению (pass-by-value) или по ссылке (pass-by-reference)?
 
 ## Objects & Prototypes
 
@@ -65,3 +65,11 @@
 * [Что такое скрытое свойство `[[Prototype]]` и как оно связано с объектом `Object.prototype`?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
 * [Как ведут себя свойства при чтении, удалении или изменении в объекте, который наследует от другого?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
 * [В чем разница между классами ES2015 (ES6) и функциями-конструкторами ES5?](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
+
+## ES6+ Features
+
+* [Какие важные возможности были добавлены в ES6?](es6+-features/kakie-vazhnye-vozmozhnosti-byli-dobavleny-v-es6.md)
+* [Что такое шаблонные литералы и как они используются?](es6+-features/chto-takoe-shablonnye-literaly-i-kak-oni-ispolzuyutsya.md)
+* [Объясните деструктуризацию для объектов и массивов](es6+-features/obyasnite-destrukturizaciyu-dlya-obektov-i-massivov.md)
+* [В чем разница между оператором spread и rest?](es6+-features/v-chem-raznica-mezhdu-operatorom-spread-i-rest.md)
+* [Что такое опциональная цепочка и когда она полезна?](es6+-features/chto-takoe-optional-chaining-i-kogda-eto-polezno.md)

@@ -27,6 +27,14 @@
 * [Как работают свойства в наследуемом объекте?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
 * [ES6 classes vs ES5 constructor functions](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
 
+## ES6+ Features
+
+* [Какие важные возможности были добавлены в ES6?](es6+-features/kakie-vazhnye-vozmozhnosti-byli-dobavleny-v-es6.md)
+* [Что такое шаблонные литералы и как они используются?](es6+-features/chto-takoe-shablonnye-literaly-i-kak-oni-ispolzuyutsya.md)
+* [Объясните деструктуризацию для объектов и массивов](es6+-features/obyasnite-destrukturizaciyu-dlya-obektov-i-massivov.md)
+* [В чем разница между оператором spread и rest?](es6+-features/v-chem-raznica-mezhdu-operatorom-spread-i-rest.md)
+* [Что такое optional chaining и когда это полезно?](es6+-features/chto-takoe-optional-chaining-i-kogda-eto-polezno.md)
+
 ## this & functions
 
 * [Что такое ключевое слово this и как определяется его значение?](this-and-functions/chto-takoe-klyuchevoe-slovo-this-i-kak-opredelyaetsya-ego-znachenie.md)
