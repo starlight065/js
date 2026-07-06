@@ -2,6 +2,31 @@
 
 * [JS Questions](README.md)
 
+## Memory & Values
+
+* [Передача параметров происходит по значению (pass-by-value) или по ссылке (pass-by-reference)?](memory-and-values/peredacha-parametrov-proiskhodit-po-znacheniyu-pass-by-value-ili-po-ssylke-pass-by-reference.md)
+
+## Objects & Prototypes
+
+* [В чем разница между изменяемыми (mutable) и неизменяемыми (immutable) объектами в JavaScript?](objects-and-prototypes/v-chem-raznica-mezhdu-izmenyaemymi-mutable-i-neizmenyaemymi-immutable-obektami-v-javascript.md)
+* [Shallow copy vs deep copy в JavaScript](objects-and-prototypes/shallow-copy-vs-deep-copy-v-javascript.md)
+* [Какие есть способы создать объект в JavaScript?](objects-and-prototypes/kakie-est-sposoby-sozdat-obekt-v-javascript.md)
+* [Что такое getters и setters?](objects-and-prototypes/chto-takoe-getters-i-setters.md)
+* [Чем метод объекта отличается от обычной функции?](objects-and-prototypes/chem-metod-obekta-otlichaetsya-ot-obychnoi-funkcii.md)
+* [Как получить все ключи и значения объекта?](objects-and-prototypes/kak-poluchit-vse-klyuchi-i-znacheniya-obekta.md)
+* [Что такое объект и как получить доступ к его свойствам?](objects-and-prototypes/chto-takoe-obekt-i-kak-poluchit-dostup-k-ego-svoistvam.md)
+* [Как проверить наличие свойства у объекта?](objects-and-prototypes/kak-proverit-nalichie-svoistva-u-obekta.md)
+* [Как удалить свойство из объекта?](objects-and-prototypes/kak-udalit-svoistvo-iz-obekta.md)
+* [Что такое class в JavaScript?](objects-and-prototypes/chto-takoe-class-v-javascript.md)
+* [Что делают extends и super?](objects-and-prototypes/chto-delayut-extends-i-super.md)
+* [Что такое static свойства и методы класса?](objects-and-prototypes/chto-takoe-static-svoistva-i-metody-klassa.md)
+* [Как проверить, что объект создан этим классом?](objects-and-prototypes/kak-proverit-chto-obekt-sozdan-etim-klassom.md)
+* [Что такое цепочка прототипов?](objects-and-prototypes/chto-takoe-cepochka-prototipov.md)
+* [Как связать объекты через прототип?](objects-and-prototypes/kak-svyazat-obekty-cherez-prototip.md)
+* [Что такое \[\[Prototype\]\] и Object.prototype?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
+* [Как работают свойства в наследуемом объекте?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
+* [ES6 classes vs ES5 constructor functions](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
+
 ## this & functions
 
 * [Что такое ключевое слово this и как определяется его значение?](this-and-functions/chto-takoe-klyuchevoe-slovo-this-i-kak-opredelyaetsya-ego-znachenie.md)

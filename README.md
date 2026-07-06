@@ -28,8 +28,6 @@
 * [Что такое контекст выполнения (execution context) в JavaScript?](scope-hoisting-and-closures/chto-takoe-execution-context.md)
 * [Что такое лексическое окружение (lexical environment)?](scope-hoisting-and-closures/chto-takoe-lexical-environment.md)
 
-
-
 ## this & Functions
 
 * [Что такое ключевое слово this в JavaScript и как определяется его значение?](this-and-functions/chto-takoe-klyuchevoe-slovo-this-i-kak-opredelyaetsya-ego-znachenie.md)
@@ -42,3 +40,28 @@
 * [Что такое polyfill?](this-and-functions/v-chem-raznica-mezhdu-metodami-call-apply-i-bind.md)
 * [Что такое функция обратного вызова (callback) и для чего она используется в JavaScript?](this-and-functions/chto-takoe-callback-i-dlya-chego-ona-ispolzuetsya-v-javascript.md)
 * [В чем преимущество использования стрелочных функций при передаче коллбеков?](this-and-functions/v-chem-preimushestvo-ispolzovaniya-strelochnykh-funkcii-pri-peredache-kollbekov.md)
+
+## Memory & Values
+
+[Передача параметров в JavaScript происходит по значению (pass-by-value) или по ссылке (pass-by-reference)?](app://obsidian.md/45%20-%20Pass%20by%20value%20vs%20reference)
+
+## Objects & Prototypes
+
+* [В чем разница между изменяемыми (mutable) и неизменяемыми (immutable) объектами в JavaScript?](objects-and-prototypes/v-chem-raznica-mezhdu-izmenyaemymi-mutable-i-neizmenyaemymi-immutable-obektami-v-javascript.md)
+* [В чем разница между поверхностным (shallow) и глубоким (deep) копированием, и как можно реализовать каждое из них?](objects-and-prototypes/shallow-copy-vs-deep-copy-v-javascript.md)
+* [Какие существуют различные способы создания объекта в JavaScript?](objects-and-prototypes/kakie-est-sposoby-sozdat-obekt-v-javascript.md)
+* [Что такое геттеры и сеттеры (getters/setters)?](objects-and-prototypes/chto-takoe-getters-i-setters.md)
+* [Что такое метод объекта и чем он отличается от обычной функции?](objects-and-prototypes/chem-metod-obekta-otlichaetsya-ot-obychnoi-funkcii.md)
+* [Как получить все ключи и значения объекта?](objects-and-prototypes/kak-poluchit-vse-klyuchi-i-znacheniya-obekta.md)
+* [Что такое объект? Как получить доступ к свойствам объекта](objects-and-prototypes/chto-takoe-obekt-i-kak-poluchit-dostup-k-ego-svoistvam.md)
+* [Как проверить, имеет ли объект определенное свойство?](objects-and-prototypes/kak-proverit-nalichie-svoistva-u-obekta.md)
+* [Как удалить свойство из объекта (оператор delete)?](objects-and-prototypes/kak-udalit-svoistvo-iz-obekta.md)
+* [Что такое класс (class) в JavaScript?](objects-and-prototypes/chto-takoe-class-v-javascript.md)
+* [Что делают `extends` и `super`?](objects-and-prototypes/chto-delayut-extends-i-super.md)
+* [Что такое статические свойства (static properties) и методы класса?](objects-and-prototypes/chto-takoe-static-svoistva-i-metody-klassa.md)
+* [Как проверить, принадлежит ли объект определенному классу?](objects-and-prototypes/kak-proverit-chto-obekt-sozdan-etim-klassom.md)
+* [Что такое цепочка прототипов и как работает прототипное наследование?](objects-and-prototypes/chto-takoe-cepochka-prototipov.md)
+* [Как создать связь наследования между двумя объектами и как работают методы `Object.setPrototypeOf` и `Object.getPrototypeOf`?](objects-and-prototypes/kak-svyazat-obekty-cherez-prototip.md)
+* [Что такое скрытое свойство `[[Prototype]]` и как оно связано с объектом `Object.prototype`?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
+* [Как ведут себя свойства при чтении, удалении или изменении в объекте, который наследует от другого?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
+* [В чем разница между классами ES2015 (ES6) и функциями-конструкторами ES5?](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
