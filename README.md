@@ -94,3 +94,24 @@
 
 
 
+## Syntax & Modules
+
+* [В чем разница между архитектурой CommonJS и ES-модулями?](syntax-and-modules/v-chem-raznica-mezhdu-arkhitekturoi-commonjs-i-es-modulyami.md)
+* [В чем разница между модулем и пространством имен (namespace) в JavaScript?](syntax-and-modules/v-chem-raznica-mezhdu-modulem-i-prostranstvom-imen-namespace-v-javascript.md)
+* [Зачем нужна модульность в приложениях? Какие инструменты загрузки модулей в JS вы знаете?](syntax-and-modules/zachem-nuzhna-modulnost-v-prilozheniyakh-kakie-instrumenty-zagruzki-modulei-v-js-vy-znaete.md)
+
+
+
+## Collections & JSON
+
+* [В чем разница между `Map`, `Set`, `WeakMap` и `WeakSet`?](collections-and-json/v-chem-raznica-mezhdu-map-set-weakmap-i-weakset.md)
+*   [Что такое JSON и как работают методы JSON.parse() и JSON.stringify()?](collections-and-json/chto-takoe-json-i-kak-rabotayut-metody-json.parse-i-json.stringify.md)
+
+    <br>
+
+
+
+
+
+
+
