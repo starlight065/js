@@ -64,7 +64,7 @@
 * [Как создать связь наследования между двумя объектами и как работают методы `Object.setPrototypeOf` и `Object.getPrototypeOf`?](objects-and-prototypes/kak-svyazat-obekty-cherez-prototip.md)
 * [Что такое скрытое свойство `[[Prototype]]` и как оно связано с объектом `Object.prototype`?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
 * [Как ведут себя свойства при чтении, удалении или изменении в объекте, который наследует от другого?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
-* [В чем разница между классами ES2015 (ES6) и функциями-конструкторами ES5?](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
+* [В чем разница между классами ES2015 (ES6) и функциями-конструкторами ES5?](es6+-features/es6-classes-vs-es5-constructor-functions.md)
 
 ## ES6+ Features
 
@@ -91,3 +91,6 @@
 * [Какие методы для поиска в массиве вы знаете?](arrays/kakie-metody-dlya-poiska-v-massive-vy-znaete.md)
 * [Как работают методы массивов some() и every()?](arrays/kak-rabotayut-metody-massivov-some-i-every.md)
 * [Как отсортировать массив по пользовательскому критерию?](arrays/kak-otsortirovat-massiv-po-polzovatelskomu-kriteriyu.md)
+
+
+

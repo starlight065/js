@@ -6,27 +6,6 @@
 
 * [Передача параметров происходит по значению (pass-by-value) или по ссылке (pass-by-reference)?](memory-and-values/peredacha-parametrov-proiskhodit-po-znacheniyu-pass-by-value-ili-po-ssylke-pass-by-reference.md)
 
-## Objects & Prototypes
-
-* [В чем разница между изменяемыми (mutable) и неизменяемыми (immutable) объектами в JavaScript?](objects-and-prototypes/v-chem-raznica-mezhdu-izmenyaemymi-mutable-i-neizmenyaemymi-immutable-obektami-v-javascript.md)
-* [Shallow copy vs deep copy в JavaScript](objects-and-prototypes/shallow-copy-vs-deep-copy-v-javascript.md)
-* [Какие есть способы создать объект в JavaScript?](objects-and-prototypes/kakie-est-sposoby-sozdat-obekt-v-javascript.md)
-* [Что такое getters и setters?](objects-and-prototypes/chto-takoe-getters-i-setters.md)
-* [Чем метод объекта отличается от обычной функции?](objects-and-prototypes/chem-metod-obekta-otlichaetsya-ot-obychnoi-funkcii.md)
-* [Как получить все ключи и значения объекта?](objects-and-prototypes/kak-poluchit-vse-klyuchi-i-znacheniya-obekta.md)
-* [Что такое объект и как получить доступ к его свойствам?](objects-and-prototypes/chto-takoe-obekt-i-kak-poluchit-dostup-k-ego-svoistvam.md)
-* [Как проверить наличие свойства у объекта?](objects-and-prototypes/kak-proverit-nalichie-svoistva-u-obekta.md)
-* [Как удалить свойство из объекта?](objects-and-prototypes/kak-udalit-svoistvo-iz-obekta.md)
-* [Что такое class в JavaScript?](objects-and-prototypes/chto-takoe-class-v-javascript.md)
-* [Что делают extends и super?](objects-and-prototypes/chto-delayut-extends-i-super.md)
-* [Что такое static свойства и методы класса?](objects-and-prototypes/chto-takoe-static-svoistva-i-metody-klassa.md)
-* [Как проверить, что объект создан этим классом?](objects-and-prototypes/kak-proverit-chto-obekt-sozdan-etim-klassom.md)
-* [Что такое цепочка прототипов?](objects-and-prototypes/chto-takoe-cepochka-prototipov.md)
-* [Как связать объекты через прототип?](objects-and-prototypes/kak-svyazat-obekty-cherez-prototip.md)
-* [Что такое \[\[Prototype\]\] и Object.prototype?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
-* [Как работают свойства в наследуемом объекте?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
-* [ES6 classes vs ES5 constructor functions](objects-and-prototypes/es6-classes-vs-es5-constructor-functions.md)
-
 ## ES6+ Features
 
 * [Какие важные возможности были добавлены в ES6?](es6+-features/kakie-vazhnye-vozmozhnosti-byli-dobavleny-v-es6.md)
@@ -34,6 +13,7 @@
 * [Объясните деструктуризацию для объектов и массивов](es6+-features/obyasnite-destrukturizaciyu-dlya-obektov-i-massivov.md)
 * [В чем разница между оператором spread и rest?](es6+-features/v-chem-raznica-mezhdu-operatorom-spread-i-rest.md)
 * [Что такое optional chaining и когда это полезно?](es6+-features/chto-takoe-optional-chaining-i-kogda-eto-polezno.md)
+* [ES6 classes vs ES5 constructor functions](es6+-features/es6-classes-vs-es5-constructor-functions.md)
 
 ## this & functions
 
@@ -77,6 +57,26 @@
 * [Что такое execution context?](scope-hoisting-and-closures/chto-takoe-execution-context.md)
 * [Что такое lexical environment?](scope-hoisting-and-closures/chto-takoe-lexical-environment.md)
 
+## Objects & Prototypes
+
+* [В чем разница между изменяемыми (mutable) и неизменяемыми (immutable) объектами в JavaScript?](objects-and-prototypes/v-chem-raznica-mezhdu-izmenyaemymi-mutable-i-neizmenyaemymi-immutable-obektami-v-javascript.md)
+* [Shallow copy vs deep copy в JavaScript](objects-and-prototypes/shallow-copy-vs-deep-copy-v-javascript.md)
+* [Какие есть способы создать объект в JavaScript?](objects-and-prototypes/kakie-est-sposoby-sozdat-obekt-v-javascript.md)
+* [Что такое getters и setters?](objects-and-prototypes/chto-takoe-getters-i-setters.md)
+* [Чем метод объекта отличается от обычной функции?](objects-and-prototypes/chem-metod-obekta-otlichaetsya-ot-obychnoi-funkcii.md)
+* [Как получить все ключи и значения объекта?](objects-and-prototypes/kak-poluchit-vse-klyuchi-i-znacheniya-obekta.md)
+* [Что такое объект и как получить доступ к его свойствам?](objects-and-prototypes/chto-takoe-obekt-i-kak-poluchit-dostup-k-ego-svoistvam.md)
+* [Как проверить наличие свойства у объекта?](objects-and-prototypes/kak-proverit-nalichie-svoistva-u-obekta.md)
+* [Как удалить свойство из объекта?](objects-and-prototypes/kak-udalit-svoistvo-iz-obekta.md)
+* [Что такое class в JavaScript?](objects-and-prototypes/chto-takoe-class-v-javascript.md)
+* [Что делают extends и super?](objects-and-prototypes/chto-delayut-extends-i-super.md)
+* [Что такое static свойства и методы класса?](objects-and-prototypes/chto-takoe-static-svoistva-i-metody-klassa.md)
+* [Как проверить, что объект создан этим классом?](objects-and-prototypes/kak-proverit-chto-obekt-sozdan-etim-klassom.md)
+* [Что такое цепочка прототипов?](objects-and-prototypes/chto-takoe-cepochka-prototipov.md)
+* [Как связать объекты через прототип?](objects-and-prototypes/kak-svyazat-obekty-cherez-prototip.md)
+* [Что такое \[\[Prototype\]\] и Object.prototype?](objects-and-prototypes/chto-takoe-prototype-i-object.prototype.md)
+* [Как работают свойства в наследуемом объекте?](objects-and-prototypes/kak-rabotayut-svoistva-v-nasleduemom-obekte.md)
+
 ## Arrays
 
 * [Какие основные методы массивов в JavaScript?](arrays/kakie-osnovnye-metody-massivov-v-javascript.md)
@@ -94,3 +94,16 @@
 * [Какие методы для поиска в массиве вы знаете?](arrays/kakie-metody-dlya-poiska-v-massive-vy-znaete.md)
 * [Как работают методы массивов some() и every()?](arrays/kak-rabotayut-metody-massivov-some-i-every.md)
 * [Как отсортировать массив по пользовательскому критерию?](arrays/kak-otsortirovat-massiv-po-polzovatelskomu-kriteriyu.md)
+
+## Syntax & Modules
+
+* [В чем разница между архитектурой CommonJS и ES-модулями?](syntax-and-modules/v-chem-raznica-mezhdu-arkhitekturoi-commonjs-i-es-modulyami.md)
+* [В чем разница между модулем и пространством имен (namespace) в JavaScript?](syntax-and-modules/v-chem-raznica-mezhdu-modulem-i-prostranstvom-imen-namespace-v-javascript.md)
+* [Зачем нужна модульность в приложениях? Какие инструменты загрузки модулей в JS вы знаете](syntax-and-modules/zachem-nuzhna-modulnost-v-prilozheniyakh-kakie-instrumenty-zagruzki-modulei-v-js-vy-znaete.md)
+
+## Collections & JSON
+
+***
+
+* [В чем разница между Map, Set, WeakMap и WeakSet?](v-chem-raznica-mezhdu-map-set-weakmap-i-weakset.md)
+* [Что такое JSON и как работают методы JSON.parse() и JSON.stringify()?](chto-takoe-json-i-kak-rabotayut-metody-json.parse-i-json.stringify.md)
