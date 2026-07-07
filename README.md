@@ -105,9 +105,12 @@
 ## Collections & JSON
 
 * [В чем разница между `Map`, `Set`, `WeakMap` и `WeakSet`?](collections-and-json/v-chem-raznica-mezhdu-map-set-weakmap-i-weakset.md)
-*   [Что такое JSON и как работают методы JSON.parse() и JSON.stringify()?](collections-and-json/chto-takoe-json-i-kak-rabotayut-metody-json.parse-i-json.stringify.md)
+* [Что такое JSON и как работают методы JSON.parse() и JSON.stringify()?](collections-and-json/chto-takoe-json-i-kak-rabotayut-metody-json.parse-i-json.stringify.md)
+*
 
-    <br>
+
+
+<br>
 
 
 
