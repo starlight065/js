@@ -120,6 +120,14 @@
 
 
 
+## Регулярные выражения
+
+* [Что такое регулярные выражения (regular expressions) и для чего они применяются? Какие основные способы работы с ними в JavaScript?](regexp/chto-takoe-regulyarnye-vyrazheniya.md)
+* [Что означают круглые скобки `()`, квадратные скобки `[]` и фигурные скобки `{}` в регулярных выражениях?](regexp/chto-oznachayut-kruglye-skobki-kvadratnye-skobki-i-figurnye-skobki-v-regulyarnykh-vyrazheniyakh.md)
+* [Что означают следующие символы в регулярных выражениях: `+`, `*`, `?`, `^`, `$`?](regexp/chto-oznachayut-sleduyushie-simvoly-v-regulyarnykh-vyrazheniyakh-+-usd.md)
+
+
+
 <br>
 
 

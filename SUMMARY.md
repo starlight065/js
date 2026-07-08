@@ -114,3 +114,9 @@
 * [Как сделать заглавной первую букву каждого слова в строке?](strings/kak-sdelat-zaglavnoi-pervuyu-bukvu-kazhdogo-slova-v-stroke.md)
 * [Как перебрать символы строки в JavaScript?](strings/kak-perebrat-simvoly-stroki-v-javascript.md)
 * [Пробелы, удаление символов](strings/probely-udalenie-simvolov.md)
+
+## RegExp
+
+* [Что такое регулярные выражения](regexp/chto-takoe-regulyarnye-vyrazheniya.md)
+* [Что означают круглые скобки, квадратные скобки и фигурные скобки в регулярных выражениях?](regexp/chto-oznachayut-kruglye-skobki-kvadratnye-skobki-i-figurnye-skobki-v-regulyarnykh-vyrazheniyakh.md)
+* [Что означают следующие символы в регулярных выражениях: +, \*, ?, ^, $?](regexp/chto-oznachayut-sleduyushie-simvoly-v-regulyarnykh-vyrazheniyakh-+-usd.md)
