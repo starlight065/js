@@ -105,3 +105,12 @@
 
 * [В чем разница между Map, Set, WeakMap и WeakSet?](collections-and-json/v-chem-raznica-mezhdu-map-set-weakmap-i-weakset.md)
 * [Что такое JSON и как работают методы JSON.parse() и JSON.stringify()?](collections-and-json/chto-takoe-json-i-kak-rabotayut-metody-json.parse-i-json.stringify.md)
+
+## Strings
+
+* [Как проверить, содержит ли строка определенную подстроку?](strings/kak-proverit-soderzhit-li-stroka-opredelennuyu-podstroku.md)
+* [Как проверить, является ли строка палиндромом?](strings/kak-proverit-yavlyaetsya-li-stroka-palindromom.md)
+* [Как подсчитать частоту встречаемости символов в строке?](strings/kak-podschitat-chastotu-vstrechaemosti-simvolov-v-stroke.md)
+* [Как сделать заглавной первую букву каждого слова в строке?](strings/kak-sdelat-zaglavnoi-pervuyu-bukvu-kazhdogo-slova-v-stroke.md)
+* [Как перебрать символы строки в JavaScript?](strings/kak-perebrat-simvoly-stroki-v-javascript.md)
+* [Пробелы, удаление символов](strings/probely-udalenie-simvolov.md)
