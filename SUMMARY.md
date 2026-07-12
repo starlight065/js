@@ -120,3 +120,21 @@
 * [Что такое регулярные выражения](regexp/chto-takoe-regulyarnye-vyrazheniya.md)
 * [Что означают круглые скобки, квадратные скобки и фигурные скобки в регулярных выражениях?](regexp/chto-oznachayut-kruglye-skobki-kvadratnye-skobki-i-figurnye-skobki-v-regulyarnykh-vyrazheniyakh.md)
 * [Что означают следующие символы в регулярных выражениях: +, \*, ?, ^, $?](regexp/chto-oznachayut-sleduyushie-simvoly-v-regulyarnykh-vyrazheniyakh-+-usd.md)
+
+## Timers & Event Loop
+
+* [В чем разница между setTimeout() и setInterval()](timers-and-event-loop/v-chem-raznica-mezhdu-settimeout-i-setinterval.md)
+* [Объясните работу цикла событий (event loop) в JavaScript](timers-and-event-loop/obyasnite-rabotu-cikla-sobytii-event-loop-v-javascript.md)
+* [Порядок выполнения синхронного кода, промисов (Promises) и setTimeout()](timers-and-event-loop/poryadok-vypolneniya-sinkhronnogo-koda-promisov-promises-i-settimeout.md)
+* [В чем разница между стеком вызовов (call stack) и очередью задач (task queue)?](timers-and-event-loop/v-chem-raznica-mezhdu-stekom-vyzovov-call-stack-i-ocheredyu-zadach-task-queue.md)
+* [Какие есть основные методы работы с таймерами в JavaScript и как они связаны с коллбеками?](timers-and-event-loop/kakie-est-osnovnye-metody-raboty-s-taimerami-v-javascript-i-kak-oni-svyazany-s-kollbekami.md)
+
+## Promises & Async
+
+* [Что такое промис (Promise) и какие три состояния у него выделяют?](promises-and-async/chto-takoe-promis-promise-i-kakie-tri-sostoyaniya-u-nego-vydelyayut.md)
+* [В чем разница между использованием обычных промисов (Promises) и синтаксиса async/await?](promises-and-async/v-chem-raznica-mezhdu-ispolzovaniem-obychnykh-promisov-promises-i-sintaksisa-async-await.md)
+* [В чем разница между функцией обратного вызова (callback function) и промисом (Promise)?](promises-and-async/v-chem-raznica-mezhdu-funkciei-obratnogo-vyzova-callback-function-i-promisom-promise.md)
+* [Почему callbacks важны для работы с асинхронными событиями в JavaScript?](promises-and-async/pochemu-callbacks-vazhny-dlya-raboty-s-asinkhronnymi-sobytiyami-v-javascript.md)
+* [Как можно обрабатывать асинхронные запросы к API в JavaScript?](promises-and-async/kak-mozhno-obrabatyvat-asinkhronnye-zaprosy-k-api-v-javascript.md)
+* [Для чего используются методы Promise.all(), Promise.race(), Promise.allSettled() и Promise.any()?](promises-and-async/dlya-chego-ispolzuyutsya-metody-promise.all-promise.race-promise.allsettled-i-promise.any.md)
+* [Что такое состояние гонки (race condition) в JavaScript?](promises-and-async/chto-takoe-sostoyanie-gonki-race-condition-v-javascript.md)
