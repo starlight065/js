@@ -128,6 +128,28 @@
 
 
 
+## Timers & Event Loop
+
+* В чем разница между `setTimeout()` и `setInterval()`?
+* Объясните работу цикла событий (event loop) в JavaScript
+* Порядок выполнения синхронного кода, промисов (Promises) и `setTimeout()`.
+* В чем разница между стеком вызовов (call stack) и очередью задач (task queue)?
+* Какие есть основные методы работы с таймерами в JavaScript и как они связаны с коллбеками?
+
+
+
+## Promises & Async
+
+* Что такое промис (Promise) и какие три состояния у него выделяют?
+* В чем разница между использованием обычных промисов (Promises) и синтаксиса `async/await`?
+* В чем разница между функцией обратного вызова (callback function) и промисом (Promise)?
+* Почему callbacks важны для работы с асинхронными событиями в JavaScript?
+* Как можно обрабатывать асинхронные запросы к API в JavaScript?
+* Для чего используются методы `Promise.all()`, `Promise.race()`, `Promise.allSettled()` и `Promise.any()`?
+* Что такое состояние гонки (race condition) в JavaScript?
+
+
+
 <br>
 
 
